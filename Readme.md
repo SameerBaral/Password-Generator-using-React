@@ -1,6 +1,6 @@
 # Password Generator
 
-This project is a simple and customizable password generator built with React using. It allows users to generate secure, random passwords based on selected criteria such as length, inclusion of uppercase letters, lowercase letters, numbers, and special characters.
+This project is a simple and customizable password generator built with React using useState and useEffect hook. It allows users to generate secure, random passwords based on selected criteria such as length, inclusion of uppercase letters, lowercase letters, numbers, and special characters.
 
 ## Features
 
