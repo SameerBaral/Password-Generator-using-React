@@ -12,3 +12,15 @@ This project is a simple and customizable password generator built with React us
 ## Getting Started
 
 Clone the repository and run the project locally to start generating secure passwords for your needs.
+
+```bash
+git clone https://github.com/SameerBaral/Password-Generator-using-React
+cd Password_Generator
+npm install
+npm run start
+```
+
+
+## Live Demo
+
+You can see a live demo of this project [here](https://password-generator-pro-1.netlify.app/).
